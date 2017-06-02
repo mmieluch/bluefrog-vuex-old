@@ -1,5 +1,5 @@
-# Vuex: Vue meets Flux.
+# DO NOT USE THIS FOR YOUR OWN SAKE :)
 
-> A small library that enables Vue.js apps to adopt a Flux-like architecture.
+I had to extract this from my `node_modules`, because the version I pulled into my project suddenly disappeared from the Vuex repository. That's why you should not rewrite repo history...
 
-Very experimental. API may change anytime. Check out the example.
+This is old, obsolete, deprecated, and describable by all other derogatory terms you might think of. Just go and use the main repo. Shoo. Go.
