@@ -2,6 +2,16 @@
   "author": {
     "name": "Evan You"
   },
+  "contributors": [
+    {
+      "name": "Michał Mieluch",
+      "email": "michal.mieluch@bluefroglondon.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmieluch/bluefrog-vuex-old.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "babel-core": "^5.7.0",
@@ -19,7 +29,6 @@
   "license": "MIT",
   "main": "src/index.js",
   "name": "vuex",
-  "optionalDependencies": {},
   "readmeFilename": "README.md",
   "scripts": {
     "dev": "webpack --config example/webpack.config.js --watch"
